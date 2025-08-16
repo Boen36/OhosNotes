@@ -21,4 +21,6 @@
 
 3. Worker 线程
 
+> 通过 hdc shell，执行`ps -p <pid> -T`命令可以查看进程中各线程的状态
+
 ## 使用EventHub进行线程间通信
